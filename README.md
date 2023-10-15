@@ -5,4 +5,4 @@ It also has a /a command
 
 ## Building
 1. Install [.NET6 sdk](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-2. Search on google how to build dotnet project
+2. Look up how to build dotnet project
